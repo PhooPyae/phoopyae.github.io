@@ -57,8 +57,8 @@ interests:
 education:
   - area: Master of Computer Science
     institution: University of Information Technology
-    date_start: 2018-01
-    date_end: 2019-10
+    date_start: 2018-01-01
+    date_end: 2019-10-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
