@@ -91,7 +91,7 @@ work:
     company_name: Huawei Cloud
     company_url: ''
     company_logo: ''
-    date_start: 2019-02-03
+    date_start: 2020-02-03
     date_end: 2021-09-14
     summary: |
       Responsibilities include:
