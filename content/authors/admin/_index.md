@@ -81,7 +81,6 @@ work:
     date_start: 2021-09-20
     date_end: 2024-07-15
     summary: |2-
-      Responsibilities include:
       - Led a PyTorch project using U2Net and Lama inpainting to generate car images, reducing the listing team's workload by 60%.
       - Gained extensive experience by utilizing MaskRCNN with ResNet101, YOLOv8, Transformer, and ViT for car object detection and segmentation, boosting MAP by 79%.
       - Developed a ResNet50-based audio classification model for car engine diagnostics, achieving 95% framewise accuracy.
@@ -94,7 +93,6 @@ work:
     date_start: 2020-02-03
     date_end: 2021-09-14
     summary: |
-      Responsibilities include:
       - Engineered business-focused AI solutions.
       - Deployed client-centric AI/ML systems.
       - Oversaw machine learning training cycles.
