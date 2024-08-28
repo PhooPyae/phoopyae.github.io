@@ -78,7 +78,7 @@ work:
     company_name: Carro
     company_url: 'https://carro.co/sg/en'
     company_logo: ''
-    date_start: 2021-09-14
+    date_start: 2021-09-20
     date_end: 2024-07-15
     summary: |2-
       Responsibilities include:
@@ -91,8 +91,8 @@ work:
     company_name: Huawei Cloud
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-02-03
+    date_end: 2021-09-14
     summary: |
       Responsibilities include:
       - Engineered business-focused AI solutions.
